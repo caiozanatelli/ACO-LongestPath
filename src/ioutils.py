@@ -60,3 +60,4 @@ class IOUtils(object):
             [str] -- path of a file for logging purposes
         '''
         self.__logfile = open(filepath, 'w')
+
